@@ -1,5 +1,5 @@
 # grumpify
-chrome extension that replace all images on current page to grumpy meow
+chrome extension that replaces all images on current page to grumpy meow gif
 
 ![alt text](https://media.giphy.com/media/5LU6ZcEGBbhVS/giphy.gif)
 
