@@ -1,8 +1,8 @@
-var eventKeys = [];
-var magicWord = 'cat';
+const eventKeys = [];
+const magicWord = 'cat';
 
 function grumpify() {
-	var images = document.querySelectorAll('img');
+	let images = document.querySelectorAll('img');
 	images.forEach( image => {
 		image.src = 'https://media.giphy.com/media/vPN3zK9dNL236/giphy.gif';
 		// console.log(image.src);
